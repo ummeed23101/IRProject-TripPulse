@@ -62,3 +62,20 @@ The application would provide the following services:
 [4]R. Sham et al., "An improved travel safety for urban commuters using an iTracks system," 2013 IEEE 3rd International Conference on System Engineering and Technology, Shah Alam, Malaysia, 2013, pp. 365-368, [Link](doi: 10.1109/ICSEngT.2013.6650201)
 
 [5] Helai Huang, Yulu Wei, Chunyang Han, Jaeyoung Lee, Suyi Mao, Fan Gao, Travel route safety estimation based on conflict simulation, Accident Analysis & Pre
+
+
+
+## How to run
+
+Install the required dependencies using pip package: 
+  pip install <package name> #highlight
+	1. selenium
+	2. pysentimiento
+	3. webdriver_manager
+	4. opencage
+
+Once the packages are installed, in the working directory serve the flask file "app.py"
+
+	python app.py #highlight
+
+When the server finishes setting up with a message Running on localhost:port, click the link to start seeing the working app
