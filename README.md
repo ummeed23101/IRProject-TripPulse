@@ -68,7 +68,7 @@ The application would provide the following services:
 ## How to run
 
 Install the required dependencies using pip package: 
-  pip install <package name> #highlight
+  	pip install <package name>
 	1. selenium
 	2. pysentimiento
 	3. webdriver_manager
