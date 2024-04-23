@@ -45,8 +45,8 @@ The application would provide the following services:
 ## 6. Contributions:
 
 - **Backend**: Parichay Madnani
-- **Badminton**: Ritik Chhatwani
-- **Frontend**: Ummeed Sinha
+- **API Integration**: Ritik Chhatwani
+- **Frontend and Routing to Flask**: Ummeed Sinha
 - **Web Scraping & API Implementation**: Dhananjay Sharma
 - **Machine Learning(Sentiment Analysis)** : Megha, Anupma Pandey
 - **Report**: Anupma, Dhananjay, Megha, Parichay, Ritik, Ummeed
